@@ -1,8 +1,8 @@
 const cardArray = [
 { name: 'coelho', img: 'coelho.jpeg' },
 { name: 'coelho', img: 'coelho.jpeg' },
-{ name: 'coelho', img: 'coelho.jpeg' },
-{ name: 'coelho', img: 'coelho.jpeg' },
+{ name: 'coelho', img: 'png-transparent-redbubble-polite-cat-meme-funny-cat-meme-thumbnail.png' },
+{ name: 'coelho', img: 'png-transparent-redbubble-polite-cat-meme-funny-cat-meme-thumbnail.png' },
 { name: 'coelho', img: 'hamster.jpeg' },
 { name: 'coelho', img: 'hamster.jpeg' },
 { name: 'cachorro', img: 'download.jpeg' },
