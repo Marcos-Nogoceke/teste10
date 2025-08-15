@@ -3,8 +3,8 @@ const cardArray = [
 { name: 'coelho', img: 'coelho.jpeg' },
 { name: 'coelho', img: 'coelho.jpeg' },
 { name: 'coelho', img: 'coelho.jpeg' },
-{ name: 'coelho', img: 'coelho.jpeg' },
-{ name: 'coelho', img: 'coelho.jpeg' },
+{ name: 'coelho', img: 'hamster.jpeg' },
+{ name: 'coelho', img: 'hamster.jpeg' },
 { name: 'cachorro', img: 'download.jpeg' },
 { name: 'cachorro', img: 'download.jpeg' }
 ];
