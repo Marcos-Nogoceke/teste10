@@ -1,6 +1,6 @@
 const cardArray = [
-{ name: 'gato', img: 'imagens/gato.png' },
-{ name: 'gato', img: 'imagens/gato.png' },
+{ name: 'coelho', img: 'coelho.jpeg' },
+{ name: 'coelho', img: 'coelho.jpeg' },
 { name: 'cachorro', img: 'imagens/cachorro.png' },
 { name: 'cachorro', img: 'imagens/cachorro.png' }
 ];
